@@ -1,5 +1,3 @@
-# SpectraVIT
-Sure! Creating a clear and comprehensive GitHub README for your **SpectraViT** project is essential for explaining your work to others. Below is a structured README template, including a project description, installation instructions, usage, and a summary of your results and methodology.
 
 ---
 
