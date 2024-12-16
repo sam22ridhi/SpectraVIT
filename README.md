@@ -28,7 +28,7 @@ SpectraViT integrates Fourier and Wavelet transforms as preprocessing steps, wit
 
 
 ## Contact
-For questions or feedback, please contact **Your Name** at **your.email@example.com**.
+For questions or feedback, please contact at **samridhiraj04@gmail.com**.
 
 --- 
 
